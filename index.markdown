@@ -3,8 +3,6 @@ layout: home
 title: Wayne Blackmon's Developer Blog
 ---
 
-# Welcome to Wayne Blackmon's Developer Blog
-
 Welcome to my blog where I share insights, tutorials, and experiences from my journey as a senior .NET developer.
 
 ## Featured Posts
@@ -22,8 +20,8 @@ Hi, I'm Wayne Blackmon, a senior .NET developer specializing in web development 
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/wayne-blackmon/)
-- [Twitter](#)
-- [GitHub](#)
+- [Twitter](https://x.com/WayneEBlackmon)
+- [GitHub](https://github.com/wayne-blackmon)
 
 ## Subscribe
 Stay updated with my latest posts and tutorials by [subscribing](#) to my newsletter.
